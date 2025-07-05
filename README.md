@@ -1,2 +1,2 @@
 # udacity-ai-python-dog-breed-classifier
-Udacity AI Programming with Python Nanodegree – Project 1: Dog Breed Classifier using transfer learning in PyTorch.
+Python project from Udacity’s AI Programming with Python Nanodegree that classifies pet images using pretrained CNN models (ResNet, AlexNet, VGG). It compares model-generated labels with true labels and stores results in a dictionary to evaluate classification accuracy.
